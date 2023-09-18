@@ -1,0 +1,11 @@
+.kalla{
+width: 170px;
+height: 160px;
+border-radius: 50%;
+}
+span{
+    color:  darkred;
+}
+body{
+    background: rgb(214, 225, 167);
+}
